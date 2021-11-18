@@ -1,53 +1,21 @@
-//META{"name":"ClearVision_Amber","description":"A fiery, orange theme with customizable colors & background!</br> Based on <a href='https://github.com/0mniscient/Discord-Themes/tree/master/Themes' target='_blank'>Discord Reborn</a> by <a href='https://github.com/0mniscient' target='_blank'>@Omniscient</a> & <a href='https://github.com/cosmicsalad/Discord-Themes-and-Plugins/tree/master/themes/DarkMatter' target='_blank'>DarkMatter</a> by <a href='https://github.com/cosmicsalad' target='_blank'>@Hammock</a> <span style='position: absolute; bottom: 0; left: 0;'>Links: <b><a href='https://git.io/v6BHO' target='_blank'>Github</a></b> | <b><a href='https://discord.gg/FtYVPky' target='_blank'>Discord</a></b> | <b><a href='https://git.io/vXTqM' target='_blank'>Wiki</a></b></span> <span style='position: absolute; bottom: 0; right: 14px;'>By <b><a href='https://github.com/Zerthox' target='_blank'>@Zerthox</a></b></span>","author":"<a href='https://github.com/Zerthox' target='_blank'>@Zerthox</a>","version":"5"}*//{}
-/* "ClearVision - Amber v5" by @Zerthox */
-/* Based on "Discord Reborn v4.30" by @Omniscient & "DarkMatter" by @Hammock */
- 
-/* IMPORT CSS FROM GITHUB */
-@import url(https://gitcdn.xyz/repo/Zerthox/ClearVision/master/css/ClearVision_v5.min.css);
-/*
----------------------------------------------------------------------------------------------------------------------------------------------
-IMPORTANT: CHANGE BETWEEN DARK AND LIGHT VERSION IN APPEARANCE SETTINGS!
----------------------------------------------------------------------------------------------------------------------------------------------
-*/
-/*
----------------------------------------------------------------------------------------------------------------------------------------------
-================ IMPORTANT LINKS =================
-Github: https://git.io/v6BHO
-Discord: https://git.io/vMnlu
-Wiki: https://git.io/vXTqM
-Latest version: https://git.io/v6Muk
-Changelog: https://git.io/v6r5N
----------------------------------------------------------------------------------------------------------------------------------------------
-*/
-/*
----------------------------------------------------------------------------------------------------------------------------------------------
-============== CUSTOMIZABLE COLORS ===============
-*/
-:root {
-	--main-color: #FFFFFF;
-	--hover-color: #FFFFFF;
-    --background-blur: 0px;
-    --background-brightness: 100%;
-}
-/*
---------------------------------------------------------------------------------------------------------------------------------------------
-*/
-/*
----------------------------------------------------------------------------------------------------------------------------------------------
-========= CUSTOMIZABLE BACKGROUND IMAGE ==========
-*/
-body::after,
-.callout-backdrop,
-.user-popout::before,
-#user-profile-modal .header::before,
-#pubs-container::before,
-.auth-background,
-.auth-tiling-bg,
-.invite-modal .invite-splash,
-.radio-theme.light label,
-.radio-theme.dark label{
-    background-image: url() !important; /* IMPORTANT: Link must be HTTPS! */
-}
-/*
---------------------------------------------------------------------------------------------------------------------------------------------
-*/
+<h1 align="center">Hi 👋, I'm Loophicek</h1>
+<h3 align="center">Im starting python developer!</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=loophicek&label=Profile%20views&color=0e75b6&style=flat" alt="loophicek" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loophicek" alt="loophicek" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/loophicek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="loophicek" height="30" width="40" /></a>
+<a href="https://discord.gg/2KvUezfXvX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2KvUezfXvX" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loophicek&show_icons=true&locale=en&layout=compact" alt="loophicek" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loophicek&show_icons=true&locale=en" alt="loophicek" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loophicek&" alt="loophicek" /></p>
